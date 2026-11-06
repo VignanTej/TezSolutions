@@ -1,0 +1,19 @@
+<svg viewBox="0 0 512 512" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <!-- Centered via Visual Optical Balance: (167, 152) -> (256, 256) -->
+  <g transform="translate(256, 256) scale(1.58) translate(-167, -152)">
+    <!-- Top Slanted Crossbar (Tez Blue) -->
+    <path d="M 60 70 L 260 70 L 220 115 L 100 115 Z" fill="#3B82B6"/>
+    <path d="M 260 70 L 220 115 L 240 140 L 280 95 Z" fill="#2d658e"/>
+    
+    <!-- Multi-Agent Orchestration Conduits (Stem) -->
+    <!-- Stream 1: Ingestion / Event Input (Grey) -->
+    <path d="M 125 125 L 145 125 L 115 250 L 95 250 Z" fill="#66747f"/>
+    <!-- Stream 2: Autonomous Reasoning (Tez Blue) -->
+    <path d="M 155 125 L 180 125 L 150 250 L 125 250 Z" fill="#3B82B6"/>
+    <!-- Stream 3: Tool Execution (Titanium Silver) -->
+    <path d="M 190 125 L 210 125 L 180 250 L 160 250 Z" fill="#9eaab2"/>
+    
+    <!-- Base Foundation Connector -->
+    <polygon points="95,250 180,250 165,270 80,270" fill="#2d658e"/>
+  </g>
+</svg>
